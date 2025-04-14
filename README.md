@@ -1,1 +1,1 @@
-# terraform-provider-awesome-pinng
+# terraform-provider-awesome-ping
